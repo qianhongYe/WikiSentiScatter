@@ -3,3 +3,4 @@ ipywidgets==7.0.1
 matplotlib==2.2.2
 pandas
 numpy
+seaborn
