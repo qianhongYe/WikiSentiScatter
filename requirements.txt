@@ -1,6 +1,7 @@
+mpld3
 geopandas==0.3.0
 ipywidgets==7.0.1
-matplotlib==2.2.2
+matplotlib
 pandas
 numpy
 seaborn
