@@ -1,8 +1,6 @@
-mpld3
-matplotlib==1.3
-python
-geopandas==0.3.0
-ipywidgets==7.0.1
+matplotlib
+geopandas
+ipywidgets
 pandas
 numpy
-seaborn
+quilt
