@@ -1,7 +1,0 @@
-matplotlib
-geopandas
-ipywidgets
-pandas
-numpy
-quilt
-plotly
