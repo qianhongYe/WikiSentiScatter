@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - geopandas
   - ipywidgets
+  - appmode
   - pip:
     - quilt
     - plotly
