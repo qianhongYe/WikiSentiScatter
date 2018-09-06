@@ -10,5 +10,6 @@ dependencies:
   - ipywidgets
   - appmode
   - pip:
-    - quilt
+    - boto
+    - requests
     - plotly
